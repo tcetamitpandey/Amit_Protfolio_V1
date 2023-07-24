@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Amit_Protfolio_V1/static/css/main.2cc6f062.css",
+    "main.css": "/Amit_Protfolio_V1/static/css/main.a271b3b2.css",
     "main.js": "/Amit_Protfolio_V1/static/js/main.9e990f76.js",
     "static/media/cv.pdf": "/Amit_Protfolio_V1/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/port1.png": "/Amit_Protfolio_V1/static/media/port1.f980721c5261eb922e32.png",
@@ -15,11 +15,11 @@
     "static/media/portfolio4.jpg": "/Amit_Protfolio_V1/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/Axhivement1.jpg": "/Amit_Protfolio_V1/static/media/Axhivement1.f7d940d86393ef11f88b.jpg",
     "index.html": "/Amit_Protfolio_V1/index.html",
-    "main.2cc6f062.css.map": "/Amit_Protfolio_V1/static/css/main.2cc6f062.css.map",
+    "main.a271b3b2.css.map": "/Amit_Protfolio_V1/static/css/main.a271b3b2.css.map",
     "main.9e990f76.js.map": "/Amit_Protfolio_V1/static/js/main.9e990f76.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc6f062.css",
+    "static/css/main.a271b3b2.css",
     "static/js/main.9e990f76.js"
   ]
 }
