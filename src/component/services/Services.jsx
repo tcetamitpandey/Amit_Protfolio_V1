@@ -49,7 +49,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheckSquare className='service__list-icon'/>
-              <p>Version Control, Collaboration and Performance Optimization.</p>
+              <p>Performance Optimization.</p>
             </li>
             <li>
               <BsCheckSquare className='service__list-icon'/>
