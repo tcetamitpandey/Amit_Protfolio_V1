@@ -9,7 +9,7 @@ import {GoMoveToTop} from "react-icons/go"
 // heart icons 
 import {BsFillSuitHeartFill} from "react-icons/bs"
 
-const Footer = () => {
+const Footer = () => { 
   return (
     <footer>
       <a href="#" className='footer__logo'>Amit Pandey</a>
