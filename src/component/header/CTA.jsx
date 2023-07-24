@@ -1,6 +1,6 @@
 // CALL TO ACTION Button
 import React from 'react'
-import CV from "../../assets/cv.pdf"
+import CV from "../../assets/CV1.pdf"
 
 const CTA = () => {
   return (
