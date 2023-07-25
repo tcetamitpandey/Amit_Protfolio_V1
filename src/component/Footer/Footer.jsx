@@ -24,8 +24,8 @@ const Footer = () => {
       </ul>
 
       <div className="footer__social">
-        <a href="https://www.linkedin.com/in/amit-pandey-tcet/" target='_blank'><BsInstagram/></a>
-        <a href="https://www.instagram.com/pandey_ji_0fficial/" target='_blank'><BsLinkedin/></a>
+        <a href="https://www.linkedin.com/in/amit-pandey-tcet/" target='_blank'><BsLinkedin/></a>
+        <a href="https://www.instagram.com/pandey_ji_0fficial/" target='_blank'><BsInstagram/></a>
         <a href="#"><GoMoveToTop/></a>
       </div>
       <div className="footer__copyright">
