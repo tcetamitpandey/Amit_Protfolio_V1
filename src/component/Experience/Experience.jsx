@@ -4,7 +4,7 @@ import "./experience.css"
 //Skills Icons Import
 import {AiFillHtml5} from "react-icons/ai"
 import {SiCss3} from "react-icons/si"
-import {IoLogoJavascript} from "react-icons/io"
+import {IoLogoJavascript} from "react-icons/io" 
 import {BiLogoReact} from "react-icons/bi"
 import {FaBootstrap} from "react-icons/fa"
 import {SiTailwindcss} from "react-icons/si"
@@ -22,6 +22,7 @@ const Experience = () => {
     <section id='experience'>
       <h5>Skills & Abilities</h5>
       <h2>My Experience</h2>
+      
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Frontend Development</h3>

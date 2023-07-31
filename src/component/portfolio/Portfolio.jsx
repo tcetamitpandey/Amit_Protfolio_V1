@@ -3,7 +3,7 @@ import "./portfolio.css"
 
 // importing Project Images
 import Img1 from "../../assets/port1.png"
-import Img2 from "../../assets/portfolio2.jpg"
+import Img2 from "../../assets/Toursism img.png"
 import Img3 from "../../assets/portfolio3.jpg"
 import Img4 from "../../assets/portfolio4.jpg"
 import Img5 from "../../assets/portfolio5.png"
@@ -13,19 +13,18 @@ import Img6 from "../../assets/portfolio6.jpg"
 const data =[
   {
     id: 1,
+    image: Img2,
+    title: "incredible india reinvented",
+    github: 'https://github.com/tcetamitpandey',
+    demo: 'https://tcetamitpandey.github.io/Tourism/'
+    
+  },
+  {
+    id: 2,
     image: Img1,
     title: "Meme Generator",
     github: 'https://github.com/tcetamitpandey',
     demo: 'https://tcetamitpandey.github.io/My-Memes/'
-
-  },
-  {
-    id: 2,
-    image: Img2,
-    title: "Comming Soon",
-    github: 'https://github.com/tcetamitpandey',
-    demo: 'https://tcetamitpandey.github.io/My-Memes/'
-
   },
   {
     id: 3,
