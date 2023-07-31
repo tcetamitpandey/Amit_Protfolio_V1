@@ -3,7 +3,7 @@ import "./portfolio.css"
 
 // importing Project Images
 import Img1 from "../../assets/port1.png"
-import Img2 from "../../assets/Toursism img.png"
+import Img2 from "../../assets/i tourism.jpg"
 import Img3 from "../../assets/portfolio3.jpg"
 import Img4 from "../../assets/portfolio4.jpg"
 import Img5 from "../../assets/portfolio5.png"
@@ -14,7 +14,7 @@ const data =[
   {
     id: 1,
     image: Img2,
-    title: "incredible india reinvented",
+    title: "Indian Tourism Reinvented",
     github: 'https://github.com/tcetamitpandey',
     demo: 'https://tcetamitpandey.github.io/Tourism/'
     
