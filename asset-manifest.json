@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Amit_Protfolio_V1/static/css/main.3f91f26d.css",
-    "main.js": "/Amit_Protfolio_V1/static/js/main.3c5d665a.js",
-    "static/media/Toursism img.png": "/Amit_Protfolio_V1/static/media/Toursism img.316a8e4e4bb7e98e60f1.png",
+    "main.js": "/Amit_Protfolio_V1/static/js/main.c64267d7.js",
+    "static/media/i tourism.jpg": "/Amit_Protfolio_V1/static/media/i tourism.da3da05e12e291eb9c8b.jpg",
     "static/media/port1.png": "/Amit_Protfolio_V1/static/media/port1.f980721c5261eb922e32.png",
     "static/media/me2.png": "/Amit_Protfolio_V1/static/media/me2.0128fa9a9b821624e204.png",
     "static/media/portfolio5.png": "/Amit_Protfolio_V1/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -16,10 +16,10 @@
     "static/media/Axhivement1.jpg": "/Amit_Protfolio_V1/static/media/Axhivement1.f7d940d86393ef11f88b.jpg",
     "index.html": "/Amit_Protfolio_V1/index.html",
     "main.3f91f26d.css.map": "/Amit_Protfolio_V1/static/css/main.3f91f26d.css.map",
-    "main.3c5d665a.js.map": "/Amit_Protfolio_V1/static/js/main.3c5d665a.js.map"
+    "main.c64267d7.js.map": "/Amit_Protfolio_V1/static/js/main.c64267d7.js.map"
   },
   "entrypoints": [
     "static/css/main.3f91f26d.css",
-    "static/js/main.3c5d665a.js"
+    "static/js/main.c64267d7.js"
   ]
 }
