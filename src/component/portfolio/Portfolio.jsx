@@ -29,24 +29,26 @@ const data =[
   {
     id: 3,
     image: Img3,
-    title: "Comming Soon",
+    title: "Comming Soon...",
     github: 'https://github.com/tcetamitpandey',
-    demo: 'https://tcetamitpandey.github.io/My-Memes/'
+    demo: 'https://tcetamitpandey.github.io/My-Memes/',
+    className:"hide"
 
 
   },
   {
     id: 4,
     image: Img4,
-    title: "Comming Soon",
+    title: "Comming Soon...",
     github: 'https://github.com/tcetamitpandey',
-    demo: 'https://tcetamitpandey.github.io/My-Memes/'
+    demo: 'https://tcetamitpandey.github.io/My-Memes/',
+    className:"hide"
 
   },
   {
     id: 5,
     image: Img5,
-    title: "Comming Soon",
+    title: "Comming Soon...",
     github: 'https://github.com/tcetamitpandey',
     demo:'https://tcetamitpandey.github.io/My-Memes/'
 
@@ -54,7 +56,7 @@ const data =[
   {
     id: 6,
     image: Img6,
-    title: "Comming Soon",
+    title: "Comming Soon...",
     github: 'https://github.com/tcetamitpandey',
     demo: 'https://tcetamitpandey.github.io/My-Memes/'
 
@@ -71,15 +73,15 @@ const Portfolio = () => {
         {
           data.map(({id,image,title,github,demo}) =>{
             return (
-              <article key={id} className='portfolio__item'>
+              <article key={id} className={`portfolio__item ${ (id=== 3) || (id=== 4) || (id=== 5) || (id=== 6) ? "btn__hide" : ""}`}>
                 <div className="portfolio__item-image">
                   <img src={image} alt={title} />
                 </div>
                   <h3>{title}</h3>
                   {/* Dont Forget to Change These/ Update these*/}
                   <div className='portfolio__item-cta'>
-                    <a href={github} className='btn' target='_blank'>Github</a>
-                    <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                    <a href={github} className={`btn  ${ (id=== 3) || (id=== 4) || (id=== 5) || (id=== 6)  ? 'Disabled' : 'normal-item'}`} target='_blank'>Github</a>
+                    <a href={demo} className={`btn btn-primary  ${ (id=== 3) || (id=== 4) || (id=== 5) || (id=== 6) ? 'Disabled' : 'normal-item'}`} target='_blank'>Live Demo</a>
                   </div>
               </article>
             )

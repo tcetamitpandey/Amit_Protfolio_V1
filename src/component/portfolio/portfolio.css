@@ -30,6 +30,20 @@
     margin-bottom: 1rem;
 }
 
+/* -------------------Experimental CODE -------------------------- */
+.Disabled{
+    pointer-events: none;
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.btn__hide:hover{
+    filter: blur(1px);
+    transform: var(--transition);
+}
+
+/* -------------------Experimental CODE -------------------------- */
 /* Media Queries  */
 @media screen and (max-width: 1024px) {
     .portfolio__container{
