@@ -30,7 +30,7 @@
     margin-bottom: 1rem;
 }
 
-/* -------------------Experimental CODE -------------------------- */
+/* -------------------Experimental CODE {disabling comming soon }-------------------------- */
 .Disabled{
     pointer-events: none;
     cursor: not-allowed;
