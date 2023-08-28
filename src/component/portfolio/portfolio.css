@@ -39,11 +39,12 @@
     box-shadow: none;
 }
 .btn__hide:hover{
+    /* font-size: ; */
     filter: blur(1px);
     transform: var(--transition);
 }
 
-/* -------------------Experimental CODE -------------------------- */
+/* -------------------Experimental CODE {disabling comming soon }  -------------------------- */
 /* Media Queries  */
 @media screen and (max-width: 1024px) {
     .portfolio__container{
