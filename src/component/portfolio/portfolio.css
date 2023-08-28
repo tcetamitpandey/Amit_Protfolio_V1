@@ -39,7 +39,6 @@
     box-shadow: none;
 }
 .btn__hide:hover{
-    /* font-size: ; */
     filter: blur(1px);
     transform: var(--transition);
 }
